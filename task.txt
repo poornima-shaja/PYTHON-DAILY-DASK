@@ -1,0 +1,25 @@
+Print Hello
+Name and Greet
+Check Even or Odd
+Check Largest of two number
+Check positive , negative or zero
+check Divisibility by both 3 and 5 number
+Check greater number from 3 input
+Check Prime Number
+Armstrong Number
+Factorial
+Reverse a Number
+Palindrome Checker
+Check perfect number
+Sum of Digits
+Count the number of digits in a number
+Find the Power of a Number
+GCD
+LCM
+Prime Numbers in Range
+Find the Square Root of a Number
+
+Fibonacci Series
+
+
+

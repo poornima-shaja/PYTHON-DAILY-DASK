@@ -18,8 +18,11 @@ GCD
 LCM
 Prime Numbers in Range
 Find the Square Root of a Number
-
+Area of a Triangle
+Simple Interest
+Kilos to miles conversion.
+Convert Celsius to Fahrenheit
+Convert Minutes into Seconds
+Swap Two Numbers (without using a third variable)
+Calculate the cube of a number
 Fibonacci Series
-
-
-
